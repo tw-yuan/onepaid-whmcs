@@ -6,5 +6,5 @@
 
 個人簡介：<br>
 <a href="https://xn--z4qa.tw/">元元.tw</a><br>
-MyBlog：<br>
+私のBlog：<br>
 <a href="https://blog.xn--z4qa.tw/">blog.元元.tw</a><br>
