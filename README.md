@@ -1,5 +1,6 @@
 # OnePaid-Whmcs
-這是用於WHMCS 8.0的萬付通(OnePaid)金流串接套件<br>
+這是用於WHMCS 8.2的萬付通(OnePaid)金流串接套件<br>
+本插件僅於WHMCS 8.2版本測試無誤，其他版本不確定<br>
 下載之後請放入/modules/gateways<br>
 <br>
 #設定說明<br>
